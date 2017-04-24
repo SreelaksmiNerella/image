@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "520124899570",
+    "firebase_url": "https://image-eb4f8.firebaseio.com",
+    "project_id": "image-eb4f8",
+    "storage_bucket": "image-eb4f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520124899570:android:b731d45077ee99ed",
+        "android_client_info": {
+          "package_name": "com.example.sreel.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520124899570-hle56kco6uetucljjfokamr0tovijo12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW14_PjAbEIYi0osOAVF6YPVx-Gnbs_dM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
